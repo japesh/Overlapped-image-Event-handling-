@@ -18,33 +18,31 @@ Have you ever tried to combine two or more images to combined as single image su
    ```
    <style>
      .infinity-tab{
-   			width:602px;
-   			height: 293px;
-   			position: absolute;
-   			left:0px;
-   			top:0px;
-   		}
-   		.infinit-tab-list{
-   			position: relative;
-   		}
+      width:602px;
+      height: 293px;
+      position: absolute;
+      left:0px;
+      top:0px;
+     }
+     .infinit-tab-list{
+      position: relative;
+     }
      .background-orange {
-   			background-color: #fcb040;
-   		}
-   		.background-blue{
-   			background-color:#7498d0;
-
-   		}
+      background-color: #fcb040;
+     }
+     .background-blue{
+      background-color:#7498d0;
+     }
    </style>
-
    <div class="infinit-tab-list">
-   			<div class='monitor background-orange infinity-tab' onClick="alert('monitor-clip')"/>
-   			<div class='operate background-orange infinity-tab' onClick="alert('operate-clip')"/>
-   			<div class='release background-orange infinity-tab' onClick="alert('release-clip')"/>
-   			<div class='deploy background-orange infinity-tab' onClick="alert('deploy-clip')"/>
-   			<div class='plan background-blue infinity-tab' onClick="alert('plan-clip')"/>
-   			<div class='build background-blue infinity-tab' onClick="alert('build-clip')"/>
-   			<div class='code background-blue infinity-tab' onClick="alert('code-clip')"/>
-   			<div class='test background-blue infinity-tab' onClick="alert('test-clip')"/>
+    <div class='monitor background-orange infinity-tab' onClick="alert('monitor-clip')"/>
+    <div class='operate background-orange infinity-tab' onClick="alert('operate-clip')"/>
+    <div class='release background-orange infinity-tab' onClick="alert('release-clip')"/>
+    <div class='deploy background-orange infinity-tab' onClick="alert('deploy-clip')"/>
+    <div class='plan background-blue infinity-tab' onClick="alert('plan-clip')"/>
+    <div class='build background-blue infinity-tab' onClick="alert('build-clip')"/>
+    <div class='code background-blue infinity-tab' onClick="alert('code-clip')"/>
+    <div class='test background-blue infinity-tab' onClick="alert('test-clip')"/>
    </div>
    ```
 
