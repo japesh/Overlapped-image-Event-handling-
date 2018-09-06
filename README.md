@@ -8,7 +8,7 @@ Have you ever tried to combine two or more images to combined as single image su
 
 * Then you faced - Browser render each image in rectangle, which make it difficult to handle events on each image.
 * Tab accesibility
-* Hove effects
+* Hover effects
 
 ## Solution
 
