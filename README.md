@@ -1,6 +1,6 @@
 # Overlapped-image-Event-handling-
  
-![alt text](https://github.com/japesh/Overlapped-image-Event-handling-/blob/master/Screenshot%20(31).png "Infinite image with diffrent ckicks")
+![alt text](https://raw.githubusercontent.com/japesh/Overlapped-image-Event-handling-/master/output.png?_sm_au_=iVVLH21Vn15SRQs5 "Infinite image with diffrent ckicks")
 
 ## Problem statement
 
